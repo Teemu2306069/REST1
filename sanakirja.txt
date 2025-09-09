@@ -1,0 +1,4 @@
+kahvi coffee
+kirja book
+elokuva movie
+sanakirja dictionary
